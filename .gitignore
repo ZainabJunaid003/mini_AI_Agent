@@ -1,0 +1,7 @@
+.env
+venv/
+chat.db
+__pycache__/
+.dart_tool/
+build/
+.idea/
