@@ -43,3 +43,6 @@ The LLM searches the documents and finds PKR 2,500 per day. Then it uses the cal
 
 - Uses Groq's free API (`openai/gpt-oss-120b`) because a paid Claude plan was not available. Switching to the Claude API later means changing only the `.env` settings (and the client).
 - The document in `docs/` is fictional sample data.
+
+- Screenshots of the mini agent working
+- https://drive.google.com/drive/folders/1LnhvFfylKXw3oxULB2f9pdhd2MukcIOR?usp=sharing
